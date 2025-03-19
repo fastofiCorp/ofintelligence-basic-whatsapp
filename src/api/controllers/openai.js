@@ -1,4 +1,3 @@
-// src/api/controllers/openai.js
 const openaiService = require('../../services/openai.js');
 const databaseService = require('../../services/database.js');
 const logger = require('../../utils/logger.js');

@@ -1,4 +1,3 @@
-// src/services/openai.js
 const { OpenAI } = require('openai');
 const dotenv = require('dotenv');
 const logger = require('../utils/logger.js');

@@ -1,4 +1,3 @@
-// src/services/database.js
 const { Conversation, Message } = require('../models/index.js');
 
 /**

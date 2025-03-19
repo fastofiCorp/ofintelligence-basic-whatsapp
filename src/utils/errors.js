@@ -1,4 +1,3 @@
-// src/utils/errors.js
 const logger = require('./logger.js');
 
 /**

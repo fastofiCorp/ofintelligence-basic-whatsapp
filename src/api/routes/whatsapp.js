@@ -1,4 +1,3 @@
-// src/api/routes/whatsapp.js
 const express = require('express');
 const whatsappController = require('../controllers/whatsapp.js');
 

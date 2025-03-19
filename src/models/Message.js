@@ -1,4 +1,3 @@
-// src/models/Message.js
 const { v4: uuidv4 } = require('uuid');
 const { getConnection } = require('../config/database.js');
 

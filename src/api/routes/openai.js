@@ -1,4 +1,3 @@
-// src/api/routes/openai.js
 const express = require('express');
 const multer = require('multer');
 const openaiController = require('../controllers/openai.js');

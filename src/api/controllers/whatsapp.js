@@ -1,4 +1,3 @@
-// src/api/controllers/whatsapp.js
 const whatsappService = require('../../services/whatsapp.js');
 const databaseService = require('../../services/database.js');
 const openaiService = require('../../services/openai.js');

@@ -1,4 +1,3 @@
-// src/middleware/errorHandler.js
 const { ApiError, convertToApiError, handleError } = require('../utils/errors.js');
 const logger = require('../utils/logger.js');
 

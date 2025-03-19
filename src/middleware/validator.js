@@ -1,4 +1,3 @@
-// src/middleware/validator.js
 import Joi from 'joi';
 import { ApiError } from '../utils/errors.js';
 

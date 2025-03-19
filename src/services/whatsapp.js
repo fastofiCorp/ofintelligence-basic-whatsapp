@@ -1,4 +1,3 @@
-// src/services/whatsapp.js
 const axios = require('axios');
 const dotenv = require('dotenv');
 const databaseService = require('./database.js');
