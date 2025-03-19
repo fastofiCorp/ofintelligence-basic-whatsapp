@@ -1,0 +1,21 @@
+{
+  "name": "ofintelligence-basic-whatsapp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Package to interact with Whatsapp and OpenAi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FastOfi",
+  "license": "ISC",
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "axios": "^1.8.3",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mysql2": "^3.13.0",
+    "openai": "^4.87.4"
+  }
+}
